@@ -1,0 +1,1 @@
+# BLITZ Simple HTML Boilerplate
