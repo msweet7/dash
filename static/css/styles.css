@@ -1,0 +1,24 @@
+body {
+      text-align: center;
+      background: url("http://www.jetblue.com/img/vacations/destination/Los-Angeles-960-x-420.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    
+    #circle {
+      margin-top:50px;
+    }
